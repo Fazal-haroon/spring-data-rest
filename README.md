@@ -28,3 +28,8 @@ Delete User 204 No Content status
 We change the end point name from users to custom 'members'
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/186763631-fb2b8f5b-f2d1-411f-ab90-6d45870c9b57.png)
+<br>
+Pagination and Sorting
+<br>
+![image](https://user-images.githubusercontent.com/36573782/186764067-fadba915-f00e-48ed-aca7-9200467f05b5.png)
+
